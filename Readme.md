@@ -45,5 +45,5 @@ Google Adwords Qualified & Bing Ads Certified Professional
 *Campaign Analyst*  
 **Torchbox Ltd** (May-15 to December-15)   
 *Search Marketing Executive*  
-**Strategy Digital Ltd** (January-14 to May-15)
-*PPC Account Executive*
+**Strategy Digital Ltd** (January-14 to May-15)   
+*PPC Account Executive*  
