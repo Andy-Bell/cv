@@ -42,10 +42,11 @@ I also have made extensive use of PostgreSQL, and have experience using MongoDB 
 
 Some work I am particularly proud of
 
-Name | Description | Technology | Link(s)
-Pythia & Delphi | A search engine and web crawler, my Makers Academy final group project | Elixir, Phoenix, PostgreSQL, ExUnit, ESpec, Hound PhantomJS | [Search Engine] (https://github.com/Andy-Bell/pythia), [Web Crawler](https://github.com/Andy-Bell/delphi), [Presentation](https://docs.google.com/presentation/d/10LDF3dIhCKR54XAlErlkmO9t6Vwak3I8doAshWGfozQ/)
-Songodoro | A version of a Pomodoro clock which on the "break" period, plays a song chosen randomly from a spotify playlist | Node.js, ES6, React, Spotify API, Mocha, Zombie | [Repo](https://github.com/Andy-Bell/songodoro)
-Gin n Juice News | A news application which pulls ten recent articles from the Guardian API, constructed on a custom JS front-end framework which we made | vanilla JS, Mocha, Zombie, instanbul | [News](https://github.com/elena-vi/Gin-n-Juice-News/), [Framework](https://github.com/elena-vi/Gin-n-Juice)
+ Name | Description | Technology | Link(s) 
+---|---|---|---
+ Pythia & Delphi | A search engine and web crawler, my Makers Academy final group project | Elixir, Phoenix, PostgreSQL, ExUnit, ESpec, Hound PhantomJS | [Search Engine] (https://github.com/Andy-Bell/pythia), [Web Crawler](https://github.com/Andy-Bell/delphi), [Presentation](https://docs.google.com/presentation/d/10LDF3dIhCKR54XAlErlkmO9t6Vwak3I8doAshWGfozQ/)
+ Songodoro | A version of a Pomodoro clock which on the "break" period, plays a song chosen randomly from a spotify playlist | Node.js, ES6, React, Spotify API, Mocha, Zombie | [Repo](https://github.com/Andy-Bell/songodoro)
+ Gin n Juice News | A news application which pulls ten recent articles from the Guardian API, constructed on a custom JS front-end framework which we made | vanilla JS, Mocha, Zombie, instanbul | [News](https://github.com/elena-vi/Gin-n-Juice-News/), [Framework](https://github.com/elena-vi/Gin-n-Juice)
 
 #### Any other qualifications
 Google Adwords Qualified & Bing Ads Certified Professional
