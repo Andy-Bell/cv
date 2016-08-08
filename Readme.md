@@ -1,11 +1,9 @@
 ## Andy Bell
 
-Back-end loving software developer, with a preference towards new and exciting technologies and approaches.
+Passionate software developer, with a preference towards new and exciting technologies and approaches.
 
 Ideally looking for a junior back-end developer role, with a team that constantly looks forward at new developments in technology.
 
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
 
@@ -15,12 +13,15 @@ Firstly, I love to learn new information, it is really what drives me. At Makers
 course (learning the principles of software development in just 12 weeks), and also through constantly pushing myself from my comfort zone - such as with our
 final project; writing a search engine in a language I had not touched before the start of the two week project.
 
-
 #### Mentoring
 
-PLEASE FILL ME IN
+Through Makers, I have found that I really enjoy sharing information with my collegues, and assisting with issues they have encountered. I have found this
+approach has helped further my understanding of the topics & technologies, as explaining often requires a more in-depth analysis of the "why" instead of just
+the "how" something works.
 
 #### Problem Solving
+
+I enjoy solving problems.
 
 NEEDS FILLING
 
@@ -43,6 +44,6 @@ Google Adwords Qualified & Bing Ads Certified Professional
 **Onno Media Ltd** (January-16)    
 *Campaign Analyst*  
 **Torchbox Ltd** (May-15 to December-15)   
-*Search Marketing Executive*
+*Search Marketing Executive*  
 **Strategy Digital Ltd** (January-14 to May-15)
 *PPC Account Executive*
