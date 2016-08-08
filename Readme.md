@@ -6,7 +6,7 @@ Passionate software developer, with a preference towards new and exciting techno
 Ideally looking for a junior back-end developer role, with a team that constantly looks forward at new developments in technology.
 
 
-## <a name="skills">Skills</a>
+## <a name="Skills">Skills</a>
 
 #### Learning
 
