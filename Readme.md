@@ -3,7 +3,7 @@
 
 Passionate software developer, with a preference towards new and exciting technologies such as Elixir and Rust and I have much love for the Phoenix framework.
 With Elixir I really enjoyed re-wiring my brain to think in a functional programming manner compared to the Object Orientated programming taught for languages
-like Ruby and JS. Rust holds my interest due to being a statically typed language, but still being relatively friendly to write.
+like Ruby and JS. Rust is interesting to me due to being a statically typed language, but still being relatively friendly to write.
 
 Looking for a junior back-end developer role, with a team that constantly looks forward at new developments in technology.
 
