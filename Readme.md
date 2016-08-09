@@ -14,7 +14,7 @@ Looking for a junior back-end developer role, with a team that constantly looks 
 
 I love to learn new information, it is really what drives me. At Makers I have demonstrated this multiple times, firstly through the nature of the 
 course (learning the principles of software development in just 12 weeks), and also through constantly pushing myself from my comfort zone - such as with our
-final project; writing a search engine in a language I had not touched before the start of the two week project.
+final project; writing a search engine in Elixir, a language I had not touched before the start of the two week project.
 
 #### Mentoring
 
