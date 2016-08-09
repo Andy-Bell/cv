@@ -1,7 +1,9 @@
-[Skills](#Skills) | [Education](#Education) | [Projects](#Projects) | [Experience](#Experience)
+[Skills](#Skills) | [Education](#Education) | [Projects](#Projects) | [Experience](#Experience) | [Hobbies & Interests] (#Hobbies)
 ## Andy Bell
 
-Passionate software developer, with a preference towards new and exciting technologies and approaches.
+Passionate software developer, with a preference towards new and exciting technologies such as Elixir and Rust and I have much love for the Phoenix framework.
+With Elixir I really enjoyed re-wiring my brain to think in a functional programming manner compared to the Object Orientated programming taught for languages
+like Ruby and JS. Rust holds my interest due to being a statically typed language, but still being relatively friendly to write.
 
 Looking for a junior back-end developer role, with a team that constantly looks forward at new developments in technology.
 
@@ -23,8 +25,9 @@ the "how" something works.
 #### Problem Solving
 
 I enjoy solving problems. My favourite part of working in digital marketing was when I was handed an account that had a problem, whether technical such as a
-major Google Analytics issue, or in strategy such as the account failing to convert even when it seemed that best practice was being followed. This is something I 
-have retained while at Makers, and I have come to love using the stacktrace to quickly locate the source of any issues.
+major Google Analytics issue - e.g traditional GA code refusing to talk to the UA tracking on the campaign microsite, or in strategy such as the account failing 
+to convert even when it seemed that best practice was being followed. This is something I have retained while at Makers, and I have come to love using the stacktrace
+to quickly locate the source of any issues.
 
 ## <a name="Education">Education</a>
 
@@ -59,3 +62,10 @@ Google Adwords Qualified & Bing Ads Certified Professional
 *Search Marketing Executive*  
 **Strategy Digital Ltd** (January-14 to May-15)   
 *PPC Account Executive*  
+
+## <a name="Hobbies">Hobbies & Interests</a>
+- LARPing
+- Cosplay
+- Pen & Paper RPGs
+- Reading
+- Comics
