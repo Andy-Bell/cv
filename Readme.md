@@ -56,6 +56,13 @@ Google Adwords Qualified & Bing Ads Certified Professional
 
 ## <a name="Experience">Experience</a>
 
+**Simpleweb Ltd** (August-16 to present)
+*Developer*
+Worked on initial builds and ongoing maintainance of several Ruby on Rails web applications
+Learnt deployment of applications to AWS (Amazon Web Services) using Ansible
+Constructed custom ansible deployments for several applications
+Gained further understanding of Postgres and Mysql, including differences between several legacy versions
+
 **Onno Media Ltd** (January-16)    
 *Campaign Analyst*  
 **Torchbox Ltd** (May-15 to December-15)   
